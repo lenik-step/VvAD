@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <string>
+//#include <string>
 
 int main(){
 	std::vector <int> v(10);
