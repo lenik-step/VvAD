@@ -7,6 +7,7 @@ int main(){
 	//v[100000] = 1;
 	int x = 1;
 	x /= v[0];
-	std::cout << "Hello, world!" << '\n';
+	//std::cout << "Hello, world!" << '\n';
+	
 	return 0;
 }
